@@ -1,0 +1,17 @@
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Infrastructure.deps.json
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Infrastructure.dll
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Infrastructure.pdb
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Application.dll
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\Ecommerce.Domain.dll
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\ECommerce.Application.pdb
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\bin\Debug\net6.0\Ecommerce.Domain.pdb
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.csproj.CopyComplete
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.dll
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\refint\ECommerce.Infrastructure.dll
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ECommerce.Infrastructure.pdb
+C:\Users\omerf\Desktop\ECommerceApp\ECommerce\Infrastructure\ECommerce.Infrastructure\obj\Debug\net6.0\ref\ECommerce.Infrastructure.dll
